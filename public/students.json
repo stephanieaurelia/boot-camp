@@ -15,5 +15,14 @@
     "additionalData": {
       "favoriteLanguage": "JavaScript"
     }
+  },
+  
+  {
+    "name": "Stephanie Aurelia",
+    "nim": "2540123984",
+    "studyProgram": "Computer Science",
+    "additionalData": {
+      "favoriteDrink": "Matcha Latte"
+    }
   }
 ]
